@@ -8,3 +8,4 @@ We used pure JavaScript and some CSS for styling.
 ## ToDo
 
 - [ ] Bug Fixes
+- [ ] Host on AWS
